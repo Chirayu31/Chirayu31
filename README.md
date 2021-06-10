@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **MERN Stack and DSA (JAVA)**
 
-- 💬 Ask me about **react, js and JAVA**
-
 - 📫 How to reach me **chirayupancholi17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
