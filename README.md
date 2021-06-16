@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chirayu Pancholi</h1>
 <h3 align="center">Designing, Coding and Modifying Websites</h3>
 
-- 🔭 I’m currently working on **Covid-19 App**
+- 🔭 I’m currently working on **Food Delivery Website**
 
-- 🌱 I’m currently learning **MERN Stack and DSA (JAVA)**
+- 🌱 I’m currently learning **Web development (MERN STACK) and DSA (JAVA)**
 
 - 📫 How to reach me **chirayupancholi17@gmail.com**
 
