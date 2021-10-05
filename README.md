@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chirayu Pancholi</h1>
 <h3 align="center">Designing, Coding and Modifying Websites</h3>
 
-- 🔭 I’m currently working on **Food Delivery Website**
+- 🔭 I’m currently working on **Weather Application On React**
 
 - 🌱 I’m currently learning **Web development (MERN STACK) and DSA (JAVA)**
 
